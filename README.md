@@ -4,3 +4,6 @@ Diamond, copper, iron, coal, mese, and tin textures came from https://github.com
 Rose Thennium, Garnet, Bloodstone, Sulfur, Titanium, and Actinolite textures came from https://notabug.org/NathanS21/Epic.git by Nathan Salapat.
 The idea for this texture pack came from the visible ores pack https://www.curseforge.com/minecraft/texture-packs/visible-ores by Techy69.
 I am not completely sure how to give credits, but I think I gave all credit where due.
+
+
+ANY FURTHER NOTES WILL BE PUT ONTO CONTENT DB AND NOT THIS.

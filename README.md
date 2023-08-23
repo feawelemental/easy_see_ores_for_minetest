@@ -8,6 +8,20 @@ Rose Thennium, Garnet, Bloodstone, Sulfur, Titanium, and Actinolite textures cam
 
 More ores mod textures came from https://github.com/minetest-mods/moreores.git by Panquesito7
 
+Armor Expansion textures came from https://content.minetest.net/packages/Giga_M/expansion_armor/ by Giga_M
+
+Rainbow Ores textures came from https://github.com/FsxShader2012/rainbow_ore.git by FsxShader2012
+
+Alien Materials textures came from https://gitlab.com/debiankaios/alien_material by debiankaios
+
+Kitty/Kitto Ores textures came from https://content.minetest.net/packages/nemokitty9/kitores/ by Nemokitty9
+
+Silver textures came from https://content.minetest.net/packages/Jackknife/silver/ by Jackknife
+
+Gemstones textures came from https://github.com/KodaTheGuy/Gemstones by KodaTheGuy
+
+Atium textures came from https://github.com/GenesisMT/atium by CosmokingMT
+
 The idea for this texture pack came from the visible ores pack https://www.curseforge.com/minecraft/texture-packs/visible-ores by Techy69.
 
 Please alert me of anything I forgot to edit or mods I should do.

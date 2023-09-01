@@ -22,6 +22,8 @@ Gemstones textures came from https://github.com/KodaTheGuy/Gemstones by KodaTheG
 
 Atium textures came from https://github.com/GenesisMT/atium by CosmokingMT
 
+Mineclone textures came from https://git.minetest.land/MineClone2/MineClone2.git by Wuzzy
+
 The idea for this texture pack came from the visible ores pack https://www.curseforge.com/minecraft/texture-packs/visible-ores by Techy69.
 
 Please alert me of anything I forgot to edit or mods I should do.
